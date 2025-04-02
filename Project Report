@@ -13,7 +13,7 @@ We used four functions to help create our solution. The win() function occurs wh
 
 ii. What data types and collections you used for variables/storage
 
-
+We utilized a list to store the choices rock, paper, and scissors, so that the computer could randomly choose from later.
 
 iii. What standard and/or third-party libraries, classes, and functions you have employed.
 
