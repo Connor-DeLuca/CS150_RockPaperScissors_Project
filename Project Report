@@ -1,1 +1,14 @@
+1. Introduce the project problem you chose, including a few background details (ex: a sentence or two regarding the history of the Rubik's cube would be appropriate for topic 3).
 
+2. Provide basic documentation as to how your code is to be used by somebody unfamiliar with your implementation (ex: is it a user prompt, a class with methods that a user must invoke, etc.)
+
+3. Provide technical details including the following:
+i. What functions/methods you created to solve the problem, if any.
+
+ii. What data types and collections you used for variables/storage
+
+iii. What standard and/or third-party libraries, classes, and functions you have employed.
+
+4. Explain any aspects to your chosen problem that you initially set out to tackle that you were unable to do so, or anything that isn't quite working correctly, and what you believe the issue to be.  (If nothing applies here, you should state as much.)
+
+5. Explain in a paragraph or so how your code could be built upon to solve a larger scale problem or include additional features that were not present.  Note: I will be extremely flexible about your choice here, but you must put something. 
