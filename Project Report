@@ -17,7 +17,7 @@ ii. What data types and collections you used for variables/storage
 
 iii. What standard and/or third-party libraries, classes, and functions you have employed.
 
-
+A standard library we used was the "random" library which allows use to use a 
 
 4. Explain any aspects to your chosen problem that you initially set out to tackle that you were unable to do so, or anything that isn't quite working correctly, and what you believe the issue to be.  (If nothing applies here, you should state as much.)
 
