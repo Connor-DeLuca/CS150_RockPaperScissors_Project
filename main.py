@@ -6,30 +6,32 @@ choices = ['rock','paper','scissors']
 
 wantsToPlayAgain = ''
 
+def printscore():
+    print('The current score is:')
+    print(f"Wins: {score['wins']}")
+    print(f"Losses: {score['losses']}")
+    print(f"Ties: {score['ties']}")
+
 def win():
     global wantsToPlayAgain
     print('You win!')
     score['wins'] = score['wins'] + 1
-    # Prints the score
-    print('The current score is: \n ' + str(score))
+    printscore()
     wantsToPlayAgain = input('Would you like to play again? Type yes or no: ').lower()
 
 def loss():
     global wantsToPlayAgain
     print('You lose!')
     score['losses'] = score['losses'] + 1
-    # Prints the score
-    print('The current score is: \n ' + str(score))
+    printscore()
     wantsToPlayAgain = input('Would you like to play again? Type yes or no: ').lower()
 
 def tie():
     global wantsToPlayAgain
     print('You tied!')
     score['ties'] = score['ties'] + 1
-    # Prints the score
-    print('The current score is: \n ' + str(score))
+    printscore()
     wantsToPlayAgain = input('Would you like to play again? Type yes or no: ').lower()
-
 
 # The user can exit by typing no at the end
 while wantsToPlayAgain != 'no':
