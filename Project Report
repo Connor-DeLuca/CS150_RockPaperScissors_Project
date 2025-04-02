@@ -9,7 +9,7 @@ We provided a user prompt for the player to play the game. When asked to enter e
 3. Provide technical details including the following:
 i. What functions/methods you created to solve the problem, if any.
 
-We used three functions to help create our solution. The win() function occurs when you have a winning scenario vs. the computer and outputs that you won. The tie() function occurs when you have a tying scenario vs. the computer and outputs that you tied.
+We used three functions to help create our solution. The win() function occurs when you have a winning scenario vs. the computer and outputs that you won. The tie() function occurs when you have a tying scenario vs. the computer and outputs that you tied. The loss() function occurs when you have a lossing scenario vs. the computer and outputs that you lost. All of these functions add 1 point to their respective scores record.
 
 ii. What data types and collections you used for variables/storage
 
