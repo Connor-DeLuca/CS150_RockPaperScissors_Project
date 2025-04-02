@@ -35,7 +35,7 @@ def tie():
 while wantsToPlayAgain != 'no':
     useraction = input('Enter rock, paper, or scissors to play: ').lower()
     computeraction = choices[random.randint(0,2)]
-    print(computeraction)
+    print(f'The computer chose {computeraction}.')
 
     if useraction == 'rock':
         if computeraction == 'scissors':
