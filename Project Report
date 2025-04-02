@@ -4,7 +4,7 @@ The problem we choose for our project was the Rock-Paper-Scissors game againest 
 
 2. Provide basic documentation as to how your code is to be used by somebody unfamiliar with your implementation (ex: is it a user prompt, a class with methods that a user must invoke, etc.)
 
-
+We provided a user prompt for the player to play the game. When asked to enter either, "rock", "paper", or "scissors", the user can input one of these variables to play the game. If the user enters nothing, they will exit the game. If the user does play the game, no matter the result they will be offered to play again.
 
 3. Provide technical details including the following:
 i. What functions/methods you created to solve the problem, if any.
@@ -21,7 +21,7 @@ iii. What standard and/or third-party libraries, classes, and functions you have
 
 4. Explain any aspects to your chosen problem that you initially set out to tackle that you were unable to do so, or anything that isn't quite working correctly, and what you believe the issue to be.  (If nothing applies here, you should state as much.)
 
-
+Nothing applies here.
 
 5. Explain in a paragraph or so how your code could be built upon to solve a larger scale problem or include additional features that were not present.  Note: I will be extremely flexible about your choice here, but you must put something. 
 
