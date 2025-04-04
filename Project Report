@@ -13,7 +13,7 @@ We used four functions to help create our solution. The win() function occurs wh
 
 ii. What data types and collections you used for variables/storage
 
-We utilized a list to store the choices rock, paper, and scissors, so that the computer could randomly choose from later.
+We utilized a list to store the choices rock, paper, and scissors, so that the computer could randomly choose from later. We also used a dictionary to store the score.
 
 iii. What standard and/or third-party libraries, classes, and functions you have employed.
 
@@ -23,6 +23,6 @@ A standard library we used was the str.lower method. Another standard library wa
 
 Nothing applies here.
 
-5. Explain in a paragraph or so how your code could be built upon to solve a larger scale problem or include additional features that were not present.  Note: I will be extremely flexible about your choice here, but you must put something. 
+5. Explain in a paragraph or so how your code could be built upon to solve a larger scale problem or include additional features that were not present.  Note: I will be extremely flexible about your choice here, but you must put something.
 
-
+To expand on our code, we could import a graphics library like tkinter so that we can visualize the game for the user with buttons to make your selection. We could also save the scores to a text/csv file so they persist across running the .py file multiple times.
