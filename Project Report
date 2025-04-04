@@ -25,4 +25,4 @@ Nothing applies here.
 
 5. Explain in a paragraph or so how your code could be built upon to solve a larger scale problem or include additional features that were not present.  Note: I will be extremely flexible about your choice here, but you must put something.
 
-To expand on our code, we could import a graphics library like tkinter so that we can visualize the game for the user with buttons to make your selection. We could also save the scores to a text/csv file so they persist across running the .py file multiple times.
+To expand on our code, we could import a graphics library like tkinter so that we can visualize the game for the user with buttons to make their selection. We could also save the scores to a text/csv file so they persist across running the .py file multiple times.
